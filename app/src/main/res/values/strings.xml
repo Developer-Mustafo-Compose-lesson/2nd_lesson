@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JkLesson2</string>
+    <string name="dialog_title">Qo\'shish ekrani</string>
+    <string name="dialog_text">Bu qo\'shish dialogi</string>
+    <string name="ok">Ok</string>
+</resources>
